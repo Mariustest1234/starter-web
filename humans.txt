@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Marius Coman> -- <marius.test@gmail.com> -- <blablabla>
 
 # THANKS
 
